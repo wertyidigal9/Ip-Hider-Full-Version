@@ -252,4 +252,4 @@ This repository serves as the official landing page for IP Hider. The software i
 **Get the most recent version of IP Hider today!**
 
 ---
-**Last updated:** 2026-09-17 23:58:40 UTC
+**Last updated:** 2026-09-18 04:30:09 UTC
